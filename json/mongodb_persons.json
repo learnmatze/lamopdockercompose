@@ -1,0 +1,14 @@
+{
+    _id: ObjectId('655db4bd552dd3574edda163'),
+    Firstname: 'John',
+    Lastname: 'Doe',
+    age: 30,
+    socialsecuritynumber: '123-45-6789'
+},
+{
+    _id: ObjectId('655db54a552dd3574edda165'),
+    Firstname: 'Jane',
+    Lastname: 'Smith',
+    age: 25,
+    socialsecuritynumber: '987-65-4321'
+}
